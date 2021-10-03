@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Seagate Portable 2TB External Harddrive",
+      "manufacturer": "Seagate",
+      "price": 62.99,
+      "rating": 2,
+      "image": "item1.png"
+    },
+    {
+      "id": 2,
+      "name": "Logitech C920x HD Webcam",
+      "manufacturer": "Logitech",
+      "price": 30.99,
+      "rating": 4,
+      "image": "item2.png"
+    },
+    {
+      "id": 3,
+      "name": "Logitech H390 Wired Headphones",
+      "manufacturer": "Logitech",
+      "price": 20.99,
+      "rating": 5,
+      "image": "item3.png"
+    },
+    {
+      "id": 4,
+      "name": "SanDisk 128GB MircoSD",
+      "manufacturer": "SanDisk",
+      "price": 21.99,
+      "rating": 1,
+      "image": "item4.png"
+    }
+  ]
+}
